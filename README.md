@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Java full stack**
 
-- 📫 How to reach me **gopikrishmcr@gmail.com**
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
